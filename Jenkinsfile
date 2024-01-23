@@ -26,9 +26,9 @@ pipeline {
         }
     }
 
-    post {
-        always {
-            // Clean up or post-build actions can be added here
-        }
-    }
+    // post {
+    //     always {
+    //         // Clean up or post-build actions can be added here
+    //     }
+    // }
 }
